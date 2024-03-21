@@ -4,5 +4,5 @@ A simple implementation of the RSA Algorithm written in Python 3 with GUI implem
 
 ## Contributors
 
-Adithya
-Maran
+* Adithya
+* Maran

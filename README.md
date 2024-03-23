@@ -21,5 +21,4 @@ This program offers a straightforward GUI interface for users to interactively e
 * Adithya
 * Maran
 
-The algorithm you provided is an implementation of the RSA (Rivest-Shamir-Adleman) encryption and decryption scheme. Here's a simplified version of the algorithm:
 
